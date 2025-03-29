@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>前端学习路线与资源推荐</title>
+      <link href="/2025/03/30/frontend-learning/"/>
+      <url>/2025/03/30/frontend-learning/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="前端学习路线与资源推荐"><a href="#前端学习路线与资源推荐" class="headerlink" title="前端学习路线与资源推荐"></a>前端学习路线与资源推荐</h1><p>作为一名前端开发者，我想分享一下我的学习路线和一些优质的学习资源，希望对正在学习前端的朋友有所帮助。</p><h2 id="基础知识"><a href="#基础知识" class="headerlink" title="基础知识"></a>基础知识</h2><h3 id="HTML-CSS"><a href="#HTML-CSS" class="headerlink" title="HTML&#x2F;CSS"></a>HTML&#x2F;CSS</h3><ul><li><a href="https://developer.mozilla.org/zh-CN/">MDN Web 文档</a> - 最权威的Web技术文档</li><li><a href="https://css-tricks.com/">CSS-Tricks</a> - CSS技巧和教程</li><li><a href="http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html">Flex布局教程</a> - 阮一峰的Flex布局教程</li></ul><h3 id="JavaScript"><a href="#JavaScript" class="headerlink" title="JavaScript"></a>JavaScript</h3><ul><li><a href="https://book.douban.com/subject/35175321/">JavaScript高级程序设计</a> - 前端必读书籍</li><li><a href="https://zh.javascript.info/">现代JavaScript教程</a> - 从基础到高级的JS教程</li><li><a href="http://es6.ruanyifeng.com/">ES6标准入门</a> - 阮一峰的ES6教程</li></ul><h2 id="进阶框架"><a href="#进阶框架" class="headerlink" title="进阶框架"></a>进阶框架</h2><h3 id="Vue-js"><a href="#Vue-js" class="headerlink" title="Vue.js"></a>Vue.js</h3><ul><li><a href="https://cn.vuejs.org/">Vue.js官方文档</a> - 最好的Vue学习资源</li><li><a href="https://www.vuemastery.com/">Vue Mastery</a> - Vue视频教程</li><li><a href="https://github.com/vuejs/awesome-vue">Awesome Vue</a> - Vue相关资源列表</li></ul><h3 id="React"><a href="#React" class="headerlink" title="React"></a>React</h3><ul><li><a href="https://zh-hans.reactjs.org/">React官方文档</a> - React入门必看</li><li><a href="https://react.iamkasong.com/">React技术揭秘</a> - 深入理解React原理</li><li><a href="http://www.ruanyifeng.com/blog/2019/09/react-hooks.html">React Hooks教程</a> - React Hooks入门</li></ul><h2 id="工具与生态"><a href="#工具与生态" class="headerlink" title="工具与生态"></a>工具与生态</h2><h3 id="构建工具"><a href="#构建工具" class="headerlink" title="构建工具"></a>构建工具</h3><ul><li><a href="https://webpack.docschina.org/">Webpack</a> - 模块打包工具</li><li><a href="https://cn.vitejs.dev/">Vite</a> - 下一代前端构建工具</li></ul><h3 id="TypeScript"><a href="#TypeScript" class="headerlink" title="TypeScript"></a>TypeScript</h3><ul><li><a href="https://typescript.bootcss.com/">TypeScript中文手册</a> - TS入门教程</li><li><a href="https://jkchao.github.io/typescript-book-chinese/">TypeScript Deep Dive</a> - TS进阶教程</li></ul><h2 id="学习方法"><a href="#学习方法" class="headerlink" title="学习方法"></a>学习方法</h2><p>前端技术更新很快，我的学习方法是：</p><ol><li><strong>打好基础</strong>：HTML、CSS、JavaScript基础要扎实</li><li><strong>系统学习</strong>：选择一个框架深入学习，而不是浅尝辄止</li><li><strong>实战项目</strong>：通过实际项目巩固所学知识</li><li><strong>持续关注</strong>：关注技术社区和博客，了解最新动态</li></ol><p>希望这些资源对你的前端学习之旅有所帮助！如果你有其他好的学习资源，欢迎在评论区分享。 </p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术 </category>
+          
+          <category> 前端开发 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 前端 </tag>
+            
+            <tag> JavaScript </tag>
+            
+            <tag> 学习资源 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>我的第一篇博客</title>
+      <link href="/2025/03/30/my-first-blog/"/>
+      <url>/2025/03/30/my-first-blog/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="博客的新起点"><a href="#博客的新起点" class="headerlink" title="博客的新起点"></a>博客的新起点</h1><p>终于，我搭建了自己的个人博客。这是一个记录生活、分享技术的地方，希望能够坚持写下去。</p><h2 id="为什么要写博客？"><a href="#为什么要写博客？" class="headerlink" title="为什么要写博客？"></a>为什么要写博客？</h2><p>写博客有很多好处：</p><ol><li><strong>知识整理</strong>：将学到的知识整理成文字，加深理解</li><li><strong>分享交流</strong>：与他人分享经验，获得反馈</li><li><strong>记录成长</strong>：记录自己的成长历程，多年后回顾会很有意义</li><li><strong>提升表达</strong>：提高自己的文字表达能力</li></ol><h2 id="未来的计划"><a href="#未来的计划" class="headerlink" title="未来的计划"></a>未来的计划</h2><p>我计划在这个博客上分享以下内容：</p><ul><li>前端技术学习笔记</li><li>好书推荐和读后感</li><li>生活随笔和感悟</li><li>有趣的项目经验</li></ul><blockquote><p>不积跬步，无以至千里；不积小流，无以成江海。</p></blockquote><p>希望这个博客能够成为我成长的见证，也希望能够结交更多志同道合的朋友！ </p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 随笔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 生活 </tag>
+            
+            <tag> 心情 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>开始使用Hexo</title>
+      <link href="/2025/03/30/hello-world/"/>
+      <url>/2025/03/30/hello-world/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>欢迎使用 <a href="https://hexo.io/">Hexo</a>! 这是你的第一篇文章。查看 <a href="https://hexo.io/docs/">官方文档</a> 获取更多信息。如果在使用Hexo的过程中遇到任何问题，可以在 <a href="https://hexo.io/docs/troubleshooting.html">问题解答</a> 中找到答案，或者在 <a href="https://github.com/hexojs/hexo/issues">GitHub</a> 上提问。</p><h2 id="快速开始"><a href="#快速开始" class="headerlink" title="快速开始"></a>快速开始</h2><h3 id="创建新文章"><a href="#创建新文章" class="headerlink" title="创建新文章"></a>创建新文章</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;我的新文章&quot;</span></span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/writing.html">写作</a></p><h3 id="启动服务器"><a href="#启动服务器" class="headerlink" title="启动服务器"></a>启动服务器</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/server.html">服务器</a></p><h3 id="生成静态文件"><a href="#生成静态文件" class="headerlink" title="生成静态文件"></a>生成静态文件</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/generating.html">生成</a></p><h3 id="部署到远程站点"><a href="#部署到远程站点" class="headerlink" title="部署到远程站点"></a>部署到远程站点</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/one-command-deployment.html">部署</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术 </category>
+          
+          <category> 博客搭建 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+            <tag> 教程 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
