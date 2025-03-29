@@ -1,0 +1,29 @@
+{
+  "name": "rhan",
+  "version": "1.0.0",
+  "description": "个人博客网站",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [
+    "blog",
+    "personal-website"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^10.4.14",
+    "date-fns": "^2.30.0",
+    "gray-matter": "^4.0.3",
+    "next": "^14.0.0",
+    "postcss": "^8.4.23",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "remark": "^14.0.0",
+    "remark-html": "^15.0.0",
+    "tailwindcss": "^3.3.0"
+  }
+}
